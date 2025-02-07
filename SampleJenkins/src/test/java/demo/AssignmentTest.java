@@ -7,5 +7,6 @@ public class AssignmentTest {
 @Test
 public void jenkins() {
 	Reporter.log("Assignment class loaded",true);
+	Reporter.log("loaded",true);
 }
 }
